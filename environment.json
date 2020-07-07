@@ -1,0 +1,6 @@
+{
+  "publishFunction0955FBF8": {
+    "QUEUE_URL": "https://sqs.us-east-1.amazonaws.com/448855094770/A1527037TestQ",
+    "TABLE_NAME": "A1527037Table"
+  }
+}
